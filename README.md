@@ -38,3 +38,7 @@ National University of Quilmes.
 <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
 </a>
 
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=amAnniia&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/amAnniia)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=amAnniia&theme=material-palenight)](https://github.com/amAnniia)
